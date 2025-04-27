@@ -102,14 +102,6 @@ CREATE TABLE borrowed_books (
 
 ![Result](./screenshots/p1_create_schema.png)
 
-Вибрати тільки стовпчики `name`, `phone` з таблиці `shippers`
-
-```sql
-SELECT name, phone FROM shippers;
-```
-
-![Result](./screenshots/task1_select_name_phone_shippers.png)
-
 ### 2. Наповнення таблиць тестовими даними
 
 ```sql
